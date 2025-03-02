@@ -1,0 +1,82 @@
+Java Basic Info
+
+Java中的序列化和反序列化是什么？
+什么是Java中的不可变类？ 被final修饰的类
+Exception和Error的区别？
+Java的优势是什么？
+Java的多态特性？
+参数传递是按值还是按引用？
+Java为什么不支持多继承？
+面向对象和面向过程的区别？
+方法的重载和方法的重写区别？
+Java内部类？作用是什么？
+JDK8 的新特性？
+String、StringBuilder和StringBuffer的区别？
+StringBuilder的实现？
+包装类和基本类型的区别？
+接口和抽象类的区别？
+JDK和JRE的区别？
+使用过哪些JDK提供的工具，他们分别有什么作用？
+hashcode和equals方法是什么？ 与== 操作符有什么区别？
+hashcode和equals方法之间的关系？
+动态代理？
+动态代理和CGlib的区别？
+Java注解的原理？
+反射机制？ 如何利用反射？
+Java的SPI机制？
+泛型的作用是什么？
+泛型擦除湿什么？
+Java泛型的上下界定符？
+深拷贝和浅拷贝的区别？
+Integer缓存池？
+类加载的过程？
+Java的BigDecimal？是如何保证精度不丢失的？
+new String("zhuzhu")在Java中会创建几个对象？
+final、finally和finalize的区别？
+为什么Java编写代码会遇到乱码的问题？
+jdk9 为什么将String 的char数组改为byte数组
+如何在Java中调用外部可执行程序或系统命令？
+如果一个现在在Java中被两次调用start（）方法，会发生什么？
+栈和队列在Java中的区别是什么？
+Optional是什么？ 有什么用？
+I/O流是什么？
+什么事Java的网络编程？
+基本数据类型？
+自动装箱和拆箱？
+迭代器？
+运行时异常和编译时异常的区别？
+Java中的继承机制?
+java的封装特性？
+访问修饰符？
+静态方法和实例方法的区别是什么？
+for循环和foreach的区别？？
+双亲委派模型？
+wait（）和sleep的区别？
+Java和go的区别？
+Object有什么方法？有什么用作？
+字节码？
+BIO、NIO、AIO？
+什么是CHanel？
+什么事Seletor？
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
